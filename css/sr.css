@@ -1,0 +1,133 @@
+
+.entry-content{
+    text-align: -webkit-center;
+}
+.modal2 {
+    top: 0;
+    overflow: auto;
+    left: 0;
+    bottom: 0;
+    animation: fadein 0.5s;
+}
+.modal2-body {
+    max-width: 460px !important;
+    top: 50%;
+    left: 50%;
+    width: 95%;
+    max-height: 100%;
+}
+.modal2-content {
+    margin: 20px 0;
+    background: white;
+    width: auto;
+    border: 10px solid #f5990f;
+    border-radius: 13px;
+}
+.modal2 .modal2-heading {
+    padding: 12px !important;
+    font-size: 22px;
+    color: #ffffff;
+    background-color: #0fa8e0;
+    text-align: center;
+}
+modal-click {
+    cursor: pointer;
+}
+.football_api_data tr:nth-child(even) {
+	background: #2a3166
+}
+
+.football_api_data tr:nth-child(odd) {
+	background: #631c32
+}
+
+.football_api_data tr {
+	color: #fff;
+	font-size: 15px;
+	text-align: center;
+}
+
+.link_to_post {
+	color: #fff;
+}
+
+.football_api_data {
+	/*max-width: 900px!important;*/
+	width:100%;
+	margin: 0 auto;
+	border:1;
+}
+.center-logo{
+	margin: 0 auto;
+}
+.th{
+	text-align: center;
+}
+.alert-infoo {
+    color: red;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 7%;
+
+}
+.bbutton {
+    border-radius: 5px !important;
+    margin-top: 8px;
+    padding: 10px 12px;
+    border-radius: 3px;
+    font-size: 14px;
+    border: 1px solid transparent;
+    outline: none;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    line-height: normal;
+    display: inline-block;
+    background-color: #0fa8e0;
+    border-color: #0fa8e0;
+    color: #ffffff !important;
+    width: 40%;
+    margin-left: 25%; 
+}
+.center{
+	text-align: center;
+}
+.left-logo{
+	position: absolute;
+    left: 0px;
+}
+.right-logo{
+	position: absolute;
+    right: 0px;
+}
+.center-text{
+	/*position: absolute;
+    right: 0px;*/
+    width: 100%;
+}
+.lable-api{
+	margin-top: 110px;
+}
+.lable-apii-left{
+	margin-top: -13%;
+	position: absolute;
+    /*right: 10%;*/
+}
+.lable-apii-right{
+	margin-top: -13%;
+	position: absolute;
+    right: 10%;
+}
+.margin-api{
+	margin-bottom: 15px;
+}
+.showmss {
+    font-size: 20px;
+    text-align: center;
+    color: #ff9200;
+}
+.th{text-align:center !important;}
+.reload{margin-bottom: 1% !important;}

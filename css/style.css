@@ -1,0 +1,153 @@
+.modal1 {
+    top: 0;
+    position: fixed;
+    z-index: 199709;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    left: 0;
+    bottom: 0;
+    animation: fadein 0.5s;
+}
+
+.modal1-body {
+    max-width: 460px !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 95%;
+    max-height: 100%;
+}
+
+.modal1-content {
+    margin: 20px 0;
+    background: white;
+    width: auto;
+    border: 10px solid #f5990f;
+    border-radius: 13px;
+}
+
+.modal1 .modal1-heading {
+    padding: 12px !important;
+    font-size: 22px;
+    color: #ffffff;
+    background-color: #0fa8e0;
+    text-align: center;
+}
+
+.modal-click {
+    cursor: pointer;
+}
+.football_api_data tr:nth-child(even) {
+	background: #2a3166
+}
+
+.football_api_data tr:nth-child(odd) {
+	background: #631c32
+}
+
+.football_api_data tr {
+	color: #fff;
+	font-size: 15px;
+	text-align: center;
+}
+
+.link_to_post {
+	color: #fff;
+}
+
+.football_api_data {
+	/*max-width: 900px!important;*/
+	width:100%;
+	margin: 0 auto;
+	border:1;
+}
+.center-logo{
+	margin: 0 auto;
+}
+.th{
+	text-align: center;
+}
+.alert-infoo {
+    color: red;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 7%;
+}
+.bbutton {
+    border-radius: 5px !important;
+    margin-top: 8px;
+    padding: 10px 12px;
+    border-radius: 3px;
+    font-size: 14px;
+    border: 1px solid transparent;
+    outline: none;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    line-height: normal;
+    display: inline-block;
+    background-color: #0fa8e0;
+    border-color: #0fa8e0;
+    color: #ffffff !important;
+    width: 40%;
+    /* margin-left: 25%; */
+}
+.center{
+	text-align: center;
+}
+.left-logo{
+	position: absolute;
+    left: 0px;
+}
+.right-logo{
+	position: absolute;
+    right: 0px;
+}
+.center-text{
+	/*position: absolute;
+    right: 0px;*/
+    width: 100%;
+}
+.lable-api{
+	margin-top: 110px;
+}
+.lable-apii-left{
+	margin-top: -13%;
+	position: absolute;
+    /*right: 10%;*/
+}
+.lable-apii-right{
+	margin-top: -13%;
+	position: absolute;
+    right: 10%;
+}
+.margin-api{
+	margin-bottom: 15px;
+}
+.showmss {
+    font-size: 20px;
+    text-align: center;
+    color: #ff9200;
+}
+.th{text-align:center !important;}
+.reload{margin-bottom: 1% !important;}
+.ratio_wrap_list {
+    padding: 10px 0;
+    border-top: .5px solid #eee;
+    margin-top: 1em;
+    align-items: center;
+}
+img.team_logo {
+    display: flex;
+    margin: 0 auto;
+}
+p.team_name, p.ratio_class {
+    font-weight: 600;
+    text-align: center;
+}
